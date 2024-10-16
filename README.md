@@ -7,12 +7,6 @@ This project aims to predict the Estimated Time of Arrival (ETA) for deliveries 
 - [Features](#features)
 - [Data](#data)
 - [Modeling](#modeling)
-- [Streamlit Deployment](#streamlit-deployment)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -50,9 +44,4 @@ The best-performing model was selected based on evaluation metrics, and further 
 
 The project is deployed using [Streamlit](https://streamlit.io/), which provides an interactive and intuitive UI for end users to input delivery details and get the predicted ETA.
 
-### Key Features of the Streamlit App:
-- User input for delivery distance, traffic, weather, etc.
-- Real-time predictions of delivery time.
-- Visualizations of model performance and results.
 
-## Setup Instructions
